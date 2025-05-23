@@ -1,6 +1,6 @@
-# Basic Projects
+# Frontend Engineer Projects
 
-This repository contains a collection of basic frontend projects to help practice HTML, CSS and JavaScript skills.
+This repository contains a collection of basic and Advance frontend projects to help practice HTML, CSS and JavaScript skills.
 
 ## Projects List
 
